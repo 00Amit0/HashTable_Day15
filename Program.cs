@@ -5,7 +5,7 @@
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome , let's count words in a string");
-            string paragraph = "To be or not to be";
+            string paragraph = "Paranoids are not paranoid because they are paranoid but because they keep putting thempselves deliberately into paranoid avoidable situations";
             Console.WriteLine(paragraph);
             CountWords(paragraph);
             Console.ReadLine();
